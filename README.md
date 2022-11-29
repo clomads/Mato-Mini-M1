@@ -1,6 +1,6 @@
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dclomads%26type%3Dpatrons&style=flat-square)](https://patreon.com/clomads)
 
-# Mato-Mini-M1
+# Mato Mini M1
 A low wattage/highly capable home server project using a M1 Mac Mini - Software, External Hardware, 3D Printed Enclosure
 
 Mato is my server's name and is a reference to and shortening of [Negro Matapacos](https://www.google.com/search?q=Negro+Matapacos) - RIP little dude
