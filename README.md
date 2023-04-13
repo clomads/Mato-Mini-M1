@@ -40,7 +40,7 @@ The M1 Mac Mini is a great balance of power and efficiency for use in an off-gri
   
 ## Software
 
-Unfortunately, MacOS hasn't been used as a server platorm for a long time, so using it as such presents certain problems you won't run into on purpose built systems. On the flip side wsing a full operating system over a NAS solution like UNRAID or FreeNAS actually presents interesting opportunities, but finding the right software or setting it up in the right way for this situation can be difficult. Here is a list of software I currently have found to be the best solutions for my needs
+Unfortunately, MacOS hasn't been used as a server platorm for a long time, so using it as such presents certain problems you won't run into on purpose built systems. On the flip side using a full operating system over a NAS solution like UNRAID or FreeNAS actually presents interesting opportunities, but finding the right software or setting it up in the right way for this situation can be difficult. Here is a list of software I currently have found to be the best solutions for my needs
 
 #TODO
 
