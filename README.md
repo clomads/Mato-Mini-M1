@@ -3,6 +3,7 @@
 
 
 # Mato Mini M1
+### Mato Mini M1 has been deprecated and replaced with a Proxmox Server on a N5095 Celeron with 16gb RAM and 1tb+2tb flash storage. Google Coral USB for Frigate.
 A low wattage/highly capable home server project using a M1 Mac Mini - Software, External Hardware, 3D Printed Enclosure
 
 Mato is my server's name and is a reference to and shortening of [Negro Matapacos](https://www.google.com/search?q=Negro+Matapacos) - RIP little dude
